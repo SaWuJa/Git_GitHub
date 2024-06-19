@@ -43,6 +43,3 @@ This command displayed the installed Python version, confirming a successful ins
 
 ### Setting Up Python Environment Variables
 To ensure that Python and its package manager, pip, work seamlessly, I verified that Python was added to the system's PATH environment variable. This allowed me to execute Python commands from any directory in the terminal. The PATH environment variable includes a list of directories that the system searches for executable files.
-
-### Installing Additional Runtimes or Compilers
-Depending on the nature of the project, additional runtimes or compilers might be necessary. For instance, if working
